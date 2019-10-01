@@ -1,6 +1,6 @@
 ---
-title: "collaboration with github"
-author: "Jaynell Anderson"
+title: "git_01"
+author: "Math_116"
 date: "Fall semester"
 output: html_document
 ---
